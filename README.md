@@ -1,3 +1,6 @@
 # praktikum4
 
-![1](Screenshot (11).pn)
+![1](SSS.png)
+
+## Flowchart
+!
